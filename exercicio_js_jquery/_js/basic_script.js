@@ -1,6 +1,10 @@
-console.log("Teste");
-
 $(".cadastro_input").hide();
+
+$("input[name=reset]").click(function(){
+	$(".cadastro_input").hide();
+	$("input[type=text]").val("")
+	$("input[type=password]").val("")
+});
 
 function trataNome() {
 
