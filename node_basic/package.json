@@ -1,0 +1,11 @@
+{
+  "name": "aula07",
+  "version": "1.0.0",
+  "description": "primeira aplicação aula 7",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gabriel Passos",
+  "license": "ISC"
+}
